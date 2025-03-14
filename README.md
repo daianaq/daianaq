@@ -1,16 +1,88 @@
-## Hi there 👋
+# 👩🏾‍💻 Daiana Silva ⌨️
 
-<!--
-**daianaq/daianaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Daiana, tenho 19 anos e sou natural de Salvador, Bahia. Concluí o ensino médio, com o curso técnico em Redes de Computadores. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI e Engenharia de Software na Universidade Católica do Salvador (UCSAL).
 
-Here are some ideas to get you started:
+<p align="left">
+    <a href="mailto:daianafreitas237@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Gmail" 
+            src="https://custom-icon-badges.demolab.com/badge/-daianafreitas237@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/daianapsilva">
+        <img 
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias 🖥️
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="40px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="40px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="40px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+ 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=daianaq&show_icons=true&theme=radical&border_color=8A2BE2&text_color=00CED1&title_color=C71585&icon_color=8A2BE2&include_all_commits=true&locale=pt-br" 
+  />
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=daianaq&theme=radical&border_color=6959CD&text_color=00CED1&title_color=C71585&layout=compact&custom_title=Tecnologias&langs_count=5" 
+  />
+</p>
