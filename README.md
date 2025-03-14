@@ -83,6 +83,6 @@ Me chamo Daiana, tenho 19 anos e sou natural de Salvador, Bahia. Concluí o ensi
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=daianaq&theme=radical&border_color=6959CD&text_color=00CED1&title_color=C71585&layout=compact&card_width=200&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=daianaq&theme=radical&border_color=6959CD&text_color=00CED1&title_color=C71585&layout=compact&card_width=200&custom_title=Tecnologias&langs_count=4" 
   />
 </p>
