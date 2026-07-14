@@ -1,6 +1,6 @@
 # 👩🏾‍💻 Daiana Silva ⌨️
 
-Me chamo Daiana, tenho 19 anos e sou natural de Salvador, Bahia. Concluí o ensino médio, com o curso técnico em Redes de Computadores. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI e Engenharia de Software na Universidade Católica do Salvador (UCSAL).
+Olá! Me chamo Daiana Silva e sou estudante do 4º período de Engenharia de Software na Universidade Católica do Salvador (UCSal). Sou técnica em Desenvolvimento de Sistemas pelo SENAI e tenho formação em Redes de Computadores. Tenho interesse em desenvolvimento de software, banco de dados e área de dados, buscando desenvolver projetos que fortaleçam meu aprendizado e meu portfólio.
 
 <p align="left">
     <a href="mailto:daianafreitas237@gmail.com">
