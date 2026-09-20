@@ -1,6 +1,6 @@
 # 👩🏾‍💻 Daiana Silva ⌨️
 
-Olá! Me chamo Daiana Silva e sou estudante do 4º período de Engenharia de Software na Universidade Católica do Salvador (UCSal). Sou técnica em Desenvolvimento de Sistemas pelo SENAI e tenho formação em Redes de Computadores. Tenho interesse em desenvolvimento de software, banco de dados e área de dados, buscando desenvolver projetos que fortaleçam meu aprendizado e meu portfólio.
+Olá! Me chamo Daiana Silva e sou estudante do 5º período de Engenharia de Software na Universidade Católica do Salvador (UCSal). Sou técnica em Desenvolvimento de Sistemas pelo SENAI e tenho formação em Redes de Computadores. Tenho interesse em desenvolvimento de software, banco de dados e área de dados, buscando desenvolver projetos que fortaleçam meu aprendizado e meu portfólio.
 
 <p align="left">
     <a href="mailto:daianafreitas237@gmail.com">
